@@ -10,12 +10,12 @@
 t_sign(int n)
 int prinif (n >0)
 {
--putchar(13);
+_putchar(43);
 return (1);
 }
 else if (n == 0)
 {
--putchar(48);
+_putchar(48);
 return (0);
 }
 else
