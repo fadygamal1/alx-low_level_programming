@@ -6,9 +6,10 @@
  * Return: 1 and prints + if n is greater than zero
  * 0 and prints 0 if n is zero
  * -1 and prints - if n is less 
- **/
-t_sign(int n)
-int prinif (n >0)
+ */
+int print_sign(int n)
+{
+if (n >0)
 {
 _putchar(43);
 return (1);
